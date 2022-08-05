@@ -1,0 +1,1 @@
+﻿[{"tag":"cityscape","probability":1},{"tag":"buildings","probability":1}]
